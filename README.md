@@ -9,3 +9,5 @@ Here I discussed the single thread and multithread structure with fan-out/fan-in
 
 <img width="686" height="416" alt="multi_thread" src="https://github.com/user-attachments/assets/ec564532-4084-4a1e-8325-a50cf14302c3" />
 
+As we can see, this approach is quite useful for big data. Despite the thread creation time and the time lag, it produces much more successful output, even with low size data.
+
